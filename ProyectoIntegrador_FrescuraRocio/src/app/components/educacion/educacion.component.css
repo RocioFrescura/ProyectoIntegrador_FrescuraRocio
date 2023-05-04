@@ -4,6 +4,16 @@
 div{
     background:#ffb6c1;
 }
-h2,h3{
+h1{
+    text-align: center;
+    display: inline;
+    background: #f08080;
+    border-width:4px;
+    border-color:black;
+    border-style:solid;
+    border-radius:10px;
+    font-weight:bold;
+}
+h3,h2{
     display:inline;
 }

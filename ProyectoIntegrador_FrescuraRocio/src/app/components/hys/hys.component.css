@@ -1,0 +1,14 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: #ffb6c1;
+    text-align: center;
+}
+h1{ background: #f08080;
+    border-width:4px;
+    border-color:black;
+    border-style:solid;
+    border-radius:10px;
+    font-weight:bold;
+}
